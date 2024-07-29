@@ -1,0 +1,18 @@
+{
+  "IDENTITY_SUBSCRIPTION_ID": "6fb8fbad-e469-4872-a0d4-f7cf40d14741",
+  "PREFIX": "landing-zone",
+  "LOCATION": "eastus",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "MANAGEMENT_GROUP_ID": "landing-zone",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-landing-zone-connectivity",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "face2de5-88c5-4820-be4d-25ed85204819",
+  "RELEASE_VERSION": "v0.19.0",
+  "MANAGEMENT_SUBSCRIPTION_ID": "e3b447fd-b561-4fa4-a821-4f90799ba35d",
+  "NETWORK_TYPE": "hubNetworking",
+  "LOGGING_RESOURCE_GROUP": "rg-landing-zone-logging"
+}
