@@ -1,0 +1,19 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "face2de5-88c5-4820-be4d-25ed85204819",
+  "RELEASE_VERSION": "latest",
+  "SECONDARYLOCATION": "westus2",
+  "LOCATION": "uksouth",
+  "MANAGEMENT_SUBSCRIPTION_ID": "e3b447fd-b561-4fa4-a821-4f90799ba35d",
+  "NETWORK_TYPE": "hubNetworking",
+  "PREFIX": "alz",
+  "IDENTITY_SUBSCRIPTION_ID": "6fb8fbad-e469-4872-a0d4-f7cf40d14741",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "MANAGEMENT_GROUP_ID": "alz"
+}
